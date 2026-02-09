@@ -1,0 +1,8 @@
+
+{
+  "name": "Temporal Portrait: AI Time-Travel Photo Booth",
+  "description": "Step into the temporal rift and transport yourself through history. Capture a photo and use Gemini to insert yourself into meticulously recreated historical scenes, analyze your portrait, and refine your timeline with natural language edits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
